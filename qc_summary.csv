@@ -1,0 +1,2 @@
+individuals_before_qc,individuals_after_qc,snps_before_qc,snps_after_callrate_filter,snps_after_maf_filter,snps_after_hwe_filter,missingness_rate_simulated,maf_threshold,hwe_p_threshold
+300,300,12588,12580,10865,10855,0.02,0.01,1e-06
