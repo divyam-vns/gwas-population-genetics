@@ -34,7 +34,7 @@ Requires the `gwas-population-genetics` project's `data/` folder to exist one di
 | PyTorch neural network | 0.193 | 1.430 |
 | XGBoost | 0.308 | 1.325 |
 
-## The interview-ready takeaway
+## The takeaway
 
 With only 300 individuals and 10,855 SNPs, XGBoost outperformed the neural network —
 a real, expected result for small tabular genomics data, not a failure of the deep
