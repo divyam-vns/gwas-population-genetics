@@ -1,0 +1,3 @@
+model,test_R2,test_RMSE
+PyTorch neural network,0.193,1.43
+XGBoost,0.308,1.325
